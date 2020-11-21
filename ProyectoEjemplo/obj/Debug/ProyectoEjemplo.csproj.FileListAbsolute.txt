@@ -1,0 +1,9 @@
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe.config
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.pdb
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.Properties.Resources.resources
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.exe
+C:\Users\cesar\source\repos\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.pdb
